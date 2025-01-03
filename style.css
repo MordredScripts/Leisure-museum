@@ -1,0 +1,46 @@
+body {
+    display: grid;
+}
+
+h1 {
+    font-size: 4rem;
+    padding-left: 60px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.Illusions {
+    color: midnightblue;
+}
+
+h2 {
+    font-size: 20px;
+    padding-left: 80px;
+    font-weight: bolder;
+}
+
+p {
+    font-size: larger;
+    padding-left: 70px;
+    padding-right: 90px;
+    font-weight: normal;
+}
+
+.right {
+    padding-left: 10px;
+}
+
+img {
+    height: 400px;
+    width: 600px;
+    padding-left: 30px;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+footer {
+    text-align: right;
+     color: midnightblue; /* */
+}
